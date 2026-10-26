@@ -477,6 +477,7 @@ One hundred thirty-five specialized agents organized into ten categories. Each a
 | Geospatial Engineer | [`geospatial-engineer.md`](agents/specialized-domains/geospatial-engineer.md) | PostGIS, spatial queries, mapping APIs, tiles |
 | Robotics Engineer | [`robotics-engineer.md`](agents/specialized-domains/robotics-engineer.md) | ROS2, sensor fusion, motion planning, SLAM |
 | Voice Assistant | [`voice-assistant.md`](agents/specialized-domains/voice-assistant.md) | STT, TTS, dialog management, Alexa/Google |
+- **[Level Open Finance Skills](https://github.com/levelcfo/open-finance-skills)** - 20 open-source accounting, month-end close, and CFO verification skills with MCP server and the [LevelBench-100](https://levelcfo.com/ai-benchmark/) evaluation suite.
 
 ### Business & Product (12 agents)
 
